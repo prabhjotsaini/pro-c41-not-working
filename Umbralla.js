@@ -1,0 +1,6 @@
+class Umbralla{
+constructor(){
+
+}
+image()
+}
